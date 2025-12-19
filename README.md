@@ -1,4 +1,4 @@
-# 🚀 Who I Am:
+# 🚀 Who I Am
 🎓 CSE Student at Green University of Bangladesh.<br>🔭 Currently crafting Full-stack Web Applications with Node.js & Express.<br>🌱 Deep diving into Scalable Backend Systems and Database Optimization.<br>💬 Ask me about Next.js, React, TypeScript, or Node.js.<br>🎯 Goal: Building impactful software and evolving into a Senior Full-stack Developer.<br>⚡ Fact: I believe every problem has a solution; it just needs the right logic!
 
 
