@@ -17,5 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MehadiWirtesCode&icon=0&color=11)](https://visitcount.itsvg.in)
-
+![Mehadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=react-dark)
+![Mehadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&theme=react)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
