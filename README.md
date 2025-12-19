@@ -16,7 +16,7 @@
 
 ### 🛠️ Tools & Ecosystem
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-### 🚀 Currently Learning:
+### 🚀 Current Sprint:
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly" /></a>
   <a href="#"><img src="https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="System Design" /></a>
