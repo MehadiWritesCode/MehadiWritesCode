@@ -3,7 +3,7 @@
 
 
 ## 👋Say Hello!
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedi.hasana.757700) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iddebona70) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehadi-hasan-4476b1392) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehadi_Hasan68) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehadi.hasan.engr@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedi.hasana.757700) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iddebona70) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehadi-hasan-4476b1392) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehadi_Hasan68) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehadi.hasan.engr@gmail.com) 
 
 ### 🌐 Languages I Speak
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -18,24 +18,24 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ### 🚀 Current Sprint:
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="System Design" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/ISD-4CAF50?style=for-the-badge&logo=google-keep&logoColor=white" alt="Information Systems" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="System Design" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ISD-4CAF50?style=for-the-badge&logo=google-keep&logoColor=white" alt="Information Systems" /></a>
 </p>
 
 > 🌱 **Focus:** Mastering low-level architecture and designing scalable information systems.
 # ⚡ Technical Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehadiWritesCode&theme=tokyonight&hide_border=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehadiWritesCode&theme=tokyonight&hide_border=false&layout=compact" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=react-dark&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MehadiWritesCode&icon=0&color=11" />
+  <img src="https://visitcount.itsvg.in/api?id=MehadiWritesCode&icon=0&color=11" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
