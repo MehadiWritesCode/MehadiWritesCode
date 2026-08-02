@@ -82,21 +82,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehadiWritesCode&theme=tokyonight&hide_border=false&layout=compact&bg_color=0d1117&text_color=c9d1d9" width="45%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=tokyo-night&area=true&hide_border=true&hide_title=false" width="95%" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MehadiWritesCode&icon=0&color=11" alt="Visitor Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <!-- Proudly updated 🚀 -->
