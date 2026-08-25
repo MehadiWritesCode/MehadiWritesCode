@@ -1,73 +1,46 @@
 <div align="center">
 
-```text id="boot01"
+# `MEHADI_OS`
+
+### `FULL-STACK DEVELOPER • SYSTEM BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+booting+MEHADI_OS...;%24+loading+developer.profile...;%24+initializing+core.systems...;%24+mounting+skill.modules...;%24+starting+learning.engine...;%24+system+ready.;%24+welcome%2C+visitor." />
+
+</div>
+
+```text id="2c0d1r"
 ╔══════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM CONTROL CENTER                       ║
+╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   ███╗   ███╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗                   ║
-║   ████╗ ████║██╔════╝██║  ██║██╔══██╗██╔══██╗██║                   ║
-║   ██╔████╔██║█████╗  ███████║███████║██║  ██║██║                   ║
-║   ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██║  ██║██║                   ║
-║   ██║ ╚═╝ ██║███████╗██║  ██║██║  ██║██████╔╝██║                   ║
-║   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝                   ║
+║  USER        Md Mehadi Hasan                                        ║
+║  ROLE        Full-Stack Developer                                   ║
+║  EDUCATION   CSE @ Green University of Bangladesh                   ║
+║  LOCATION    Bangladesh                                             ║
 ║                                                                      ║
-║                       M E H A D I _ O S                              ║
-║                                                                      ║
-║              FULL-STACK DEVELOPER • SYSTEM BUILDER                 ║
+║  MODE        BUILD                                                   ║
+║  STATUS      ● ONLINE                                                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-```text id="boot02"
-[ BOOT SEQUENCE ]
+## `01 // PROFILE`
 
-> loading developer.profile............. OK
-> loading skill.modules................. OK
-> initializing learning.engine.......... OK
-> connecting github..................... OK
-> checking system status................ OK
-
-SYSTEM READY.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+initializing+MEHADI_OS...;%24+loading+developer.profile...;%24+mounting+skill.modules...;%24+starting+learning.service...;%24+all+systems+operational.;%24+welcome%2C+visitor." />
-
-</div>
-
----
-
-```text id="about01"
-┌─[ mehadi@github ]─[ ~ ]─────────────────────────────────────────────┐
-│                                                                     │
-│  $ uname -a                                                         │
-│                                                                     │
-│  MEHADI_OS 2.6.0                                                    │
-│  Full-Stack / Backend / System Design                               │
-│                                                                     │
-│  $ id                                                               │
-│                                                                     │
-│  uid=mehadi developer cse_student system_builder                    │
-│                                                                     │
-│  $ uptime                                                           │
-│                                                                     │
-│  Always learning. Always building.                                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text id="about02"
+```text id="5s4f2q"
 $ cat ~/profile/about.txt
 
-NAME        : Md Mehadi Hasan
-ROLE        : Full-Stack Developer
-EDUCATION   : CSE @ Green University of Bangladesh
-LOCATION    : Bangladesh
+I build useful software and enjoy understanding what happens
+behind the interface.
+
+My focus is full-stack development, backend engineering,
+database design, and system architecture.
 
 MISSION
 ───────
-Build useful software.
-Understand systems deeply.
-Write maintainable code.
-Keep improving.
+→ Build useful software
+→ Understand systems deeply
+→ Write maintainable code
+→ Keep improving
 
 PHILOSOPHY
 ──────────
@@ -77,243 +50,121 @@ It just needs the right logic.
 
 ---
 
-```text id="skills01"
-$ pwd
+## `02 // CORE SYSTEMS`
 
-/home/mehadi/skills
-```
+```text id="6q3j8m"
+$ ./core --status
 
-```text id="skills02"
-$ tree -L 2
-```
+┌──────────────────┬──────────────────────────────────────────────┐
+│ SYSTEM           │ STACK                                        │
+├──────────────────┼──────────────────────────────────────────────┤
+│ LANGUAGES        │ C • C++ • Java • JavaScript • TypeScript    │
+│                  │ Python • PHP                                  │
+│                  │                                               │
+│ FRONTEND         │ React • Next.js • Tailwind CSS • Vite        │
+│                  │ Context API • Chart.js                       │
+│                  │                                               │
+│ BACKEND          │ Node.js • Express.js • REST APIs • JWT      │
+│                  │ Python                                        │
+│                  │                                               │
+│ DATABASE         │ PostgreSQL • MongoDB • MySQL • Supabase      │
+│                  │                                               │
+│ INFRASTRUCTURE   │ Git • GitHub • GitLab                        │
+│                  │ Vercel • Netlify • Render • VS Code          │
+└──────────────────┴──────────────────────────────────────────────┘
 
-```text id="skills03"
-skills/
-│
-├── languages/
-│   ├── C
-│   ├── C++
-│   ├── Java
-│   ├── JavaScript
-│   ├── TypeScript
-│   ├── Python
-│   └── PHP
-│
-├── frontend/
-│   ├── React
-│   ├── Next.js
-│   ├── Tailwind CSS
-│   ├── Vite
-│   ├── Context API
-│   └── Chart.js
-│
-├── backend/
-│   ├── Node.js
-│   ├── Express.js
-│   ├── REST APIs
-│   ├── JWT
-│   └── Python
-│
-├── databases/
-│   ├── PostgreSQL
-│   ├── MongoDB
-│   ├── MySQL
-│   └── Supabase
-│
-└── infrastructure/
-    ├── Git
-    ├── GitHub
-    ├── GitLab
-    ├── Vercel
-    ├── Netlify
-    └── Render
+ALL CORE SYSTEMS → OPERATIONAL
 ```
 
 ---
 
-```text id="skills04"
-$ ./skills --scan
-```
+## `03 // ACTIVE DEVELOPMENT`
 
-```text id="skills05"
-SCANNING DEVELOPER STACK...
+```text id="3q7z5p"
+$ ./learning --active
 
-[████████████████████████████████] 100%
+┌──────────────────────────────────────────────────────────────────┐
+│                         ACTIVE PROCESSES                          │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  [████████████████████]  BACKEND ARCHITECTURE                    │
+│  [███████████████████░]  SYSTEM DESIGN                           │
+│  [██████████████████░░]  DATABASE OPTIMIZATION                   │
+│  [█████████████████░░░]  COMPILER DESIGN                         │
+│  [████████████████░░░░]  MACHINE LEARNING                        │
+│  [████████████████░░░░]  ALGORITHMS & DATA STRUCTURES            │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 
-╭────────────────────┬────────────────────────────┬──────────────╮
-│ MODULE             │ CORE TECHNOLOGIES          │ STATUS       │
-├────────────────────┼────────────────────────────┼──────────────┤
-│ LANGUAGES          │ C / C++ / Java              │ ACTIVE       │
-│                    │ JavaScript / TypeScript     │              │
-│                    │ Python / PHP                │              │
-│                    │                            │              │
-│ FRONTEND           │ React / Next.js             │ ACTIVE       │
-│                    │ Tailwind / Vite             │              │
-│                    │ Context API / Chart.js      │              │
-│                    │                            │              │
-│ BACKEND            │ Node.js / Express           │ ACTIVE       │
-│                    │ REST / JWT                  │              │
-│                    │ Python                      │              │
-│                    │                            │              │
-│ DATABASE           │ PostgreSQL / MongoDB        │ ACTIVE       │
-│                    │ MySQL / Supabase            │              │
-│                    │                            │              │
-│ INFRASTRUCTURE     │ Git / GitHub / GitLab       │ ACTIVE       │
-│                    │ Vercel / Netlify / Render   │              │
-╰────────────────────┴────────────────────────────┴──────────────╯
-
-SCAN COMPLETE.
-```
-
----
-
-```text id="stack01"
-$ ./stack --load
-```
-
-```text id="stack02"
-LANGUAGES
-─────────
-C              ███████████████░░░░░
-C++            ███████████████░░░░░
-Java           ████████████░░░░░░░░
-JavaScript     ███████████████████░
-TypeScript     ███████████████████░
-Python         ████████████████░░░░
-PHP            ██████████░░░░░░░░░░
-
-
-FRONTEND
-────────
-React          ███████████████████░
-Next.js        ███████████████████░
-Tailwind CSS   ██████████████████░░
-Vite           ███████████████░░░░░
-Context API    ██████████████░░░░░░
-Chart.js       ████████████░░░░░░░░
-
-
-BACKEND
-───────
-Node.js        ██████████████████░░
-Express.js     █████████████████░░░
-REST APIs      ████████████████░░░░
-JWT            ███████████████░░░░░
-Python         ████████████████░░░░
-
-
-DATABASE
-────────
-PostgreSQL     ███████████████░░░░░
-MongoDB        ███████████████░░░░░
-MySQL          ██████████████░░░░░░
-Supabase       ████████████████░░░░
-```
-
----
-
-```text id="infra01"
-$ ./environment --inspect
-```
-
-```text id="infra02"
-┌─────────────────────────────────────────────────────────────────────┐
-│                        DEVELOPMENT ENVIRONMENT                       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  VERSION CONTROL                                                    │
-│  ├── Git                                                            │
-│  ├── GitHub                                                         │
-│  └── GitLab                                                         │
-│                                                                     │
-│  DEPLOYMENT                                                         │
-│  ├── Vercel                                                         │
-│  ├── Netlify                                                        │
-│  └── Render                                                         │
-│                                                                     │
-│  DATABASE / CLOUD                                                   │
-│  └── Supabase                                                        │
-│                                                                     │
-│  DEVELOPMENT                                                        │
-│  └── VS Code                                                         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```text id="learning01"
-$ systemctl --type=learning
-```
-
-```text id="learning02"
-● backend-architecture.service
-   Loaded: enabled
-   Status: active
-
-● database-optimization.service
-   Loaded: enabled
-   Status: active
-
-● system-design.service
-   Loaded: enabled
-   Status: active
-
-● compiler-design.service
-   Loaded: enabled
-   Status: active
-
-● machine-learning.service
-   Loaded: enabled
-   Status: active
-
-● algorithms.service
-   Loaded: enabled
-   Status: active
-```
-
-```text id="learning03"
-$ top -o learning
-```
-
-```text
-PID    PROCESS                         LOAD        STATUS
-────────────────────────────────────────────────────────────
-101    Backend Architecture            ██████████  RUNNING
-102    System Design                  █████████   RUNNING
-103    Database Optimization           ████████    RUNNING
-104    Compiler Design                 ███████     RUNNING
-105    Machine Learning                ██████      RUNNING
-106    Algorithms / DSA                ██████      RUNNING
-
-LEARNING ENGINE
-██████████████████████████████████████░░░░░░
-                                      ACTIVE
-```
-
----
-
-```text id="focus01"
-$ cat ~/learning/current-focus.log
-```
-
-```text
-[ACTIVE]
-
-01 → Scalable Backend Systems
-02 → Database Optimization
-03 → System Design Patterns
-04 → Compiler Design
-05 → Machine Learning
-06 → Algorithms & Data Structures
-
-[EXPLORING]
+CURRENTLY EXPLORING
 
 → Distributed Systems
 → Advanced Backend Architecture
 → Cloud Infrastructure
+```
 
-[OBJECTIVE]
+---
+
+## `04 // SYSTEM ARCHITECTURE`
+
+```text id="4p2v8k"
+$ ./architecture --map
+
+                         ┌───────────────┐
+                         │    CLIENT     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────┐
+                    │   FRONTEND LAYER    │
+                    │ React / Next.js     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      API LAYER      │
+                    │ REST / Controllers  │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌──────────────┐      ┌──────────────┐
+             │ BUSINESS     │      │     AUTH     │
+             │    LOGIC     │      │ JWT/Supabase │
+             └──────┬───────┘      └──────────────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │  DATA LAYER  │
+             └──────┬───────┘
+                    │
+              ┌─────┴─────┐
+              ▼           ▼
+         PostgreSQL     MongoDB
+
+architecture.service → READY
+```
+
+---
+
+## `05 // ENGINEERING MINDSET`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│       BUILD        →        LEARN        →        REPEAT │
+│                                                         │
+│       SOLVE        →       UNDERSTAND     →     IMPROVE │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+```text id="8r1m6x"
+$ cat ~/objective
 
 Become a senior-level full-stack engineer
 who understands both the interface
@@ -322,111 +173,7 @@ and the system behind it.
 
 ---
 
-```text id="arch01"
-$ ./architecture --visualize
-```
-
-```text
-                         ┌───────────────┐
-                         │    CLIENT     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │   FRONTEND LAYER    │
-                      │ React / Next.js     │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │      API LAYER      │
-                      │ REST / Controllers  │
-                      └──────────┬──────────┘
-                                 │
-                       ┌─────────┴─────────┐
-                       ▼                   ▼
-              ┌────────────────┐  ┌────────────────┐
-              │ BUSINESS LOGIC │  │ AUTHENTICATION │
-              └───────┬────────┘  └────────────────┘
-                      │
-                      ▼
-              ┌────────────────────┐
-              │     DATA LAYER     │
-              └─────────┬──────────┘
-                        │
-                 ┌──────┴──────┐
-                 ▼             ▼
-            PostgreSQL      MongoDB
-```
-
-```text id="arch02"
-architecture.service → READY
-```
-
----
-
-```text id="status01"
-$ ./security --scan
-```
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                    DEVELOPMENT SCAN                        │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  CODE QUALITY             ████████████████░░░░              │
-│  PROBLEM SOLVING          █████████████████░░              │
-│  BACKEND KNOWLEDGE        ███████████████░░░░              │
-│  DATABASE KNOWLEDGE       ██████████████░░░░░              │
-│  SYSTEM DESIGN            ███████████░░░░░░░               │
-│  SECURITY AWARENESS       █████████████░░░░░               │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-
-RESULT
-──────
-Developer status: EVOLVING
-Learning status:  ACTIVE
-Final version:    NOT FOUND
-```
-
----
-
-```text id="neo01"
-$ neofetch --developer
-```
-
-```text
-              ███████╗ ██████╗
-              ██╔════╝██╔═══██╗
-              █████╗  ██║   ██║
-              ██╔══╝  ██║   ██║
-              ██║     ╚██████╔╝
-              ╚═╝      ╚═════╝
-
-           M D   M E H A D I   H A S A N
-
-OS             : MEHADI_OS
-KERNEL         : FULL-STACK ENGINEERING
-SHELL          : TypeScript / JavaScript
-RUNTIME        : Node.js / Python
-FRONTEND       : React / Next.js
-BACKEND        : Express / REST
-DATABASE       : PostgreSQL / MongoDB / MySQL
-AUTH           : JWT / Supabase
-DEPLOYMENT     : Vercel / Netlify / Render
-EDITOR         : VS Code
-EDUCATION      : CSE
-LOCATION       : Bangladesh
-STATUS         : ONLINE
-CURRENT MODE   : BUILD
-```
-
----
-
-```text id="stats01"
-$ github --telemetry
-```
+## `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -434,47 +181,41 @@ $ github --telemetry
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehadiWritesCode&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=AAAAAA&dates=666666" height="165"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-```text id="stats02"
-github.service
-───────────────
-API ................. CONNECTED
-REPOSITORIES ........ INDEXED
-CONTRIBUTIONS ....... TRACKING
-STATUS .............. ONLINE
+```text id="0k4f3z"
+$ github --status
+
+REPOSITORIES    → INDEXED
+CONTRIBUTIONS   → TRACKING
+PROFILE         → CONNECTED
+STATUS          → ONLINE
 ```
 
 ---
 
-```text id="connect01"
-$ ./connect --ports
-```
+## `07 // CONNECTION PORTS`
+
+<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
+│                      CONNECTION PORTS                         │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│                     CONNECTION PORTS                         │
-│                                                              │
-│   :22    GitHub      → source code                          │
-│   :443   LinkedIn    → professional network                 │
-│   :80    Facebook    → social                               │
-│   :80    Instagram   → social                               │
-│   :80    X           → updates                              │
-│   :25    Email       → direct connection                    │
+│   :22    GitHub       → SOURCE CODE                          │
+│   :443   LinkedIn     → PROFESSIONAL NETWORK                 │
+│   :80    Facebook     → SOCIAL                               │
+│   :80    Instagram    → SOCIAL                               │
+│   :80    X            → UPDATES                              │
+│   :25    Email        → DIRECT CONNECTION                    │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
-
-<div align="center">
 
 <a href="https://github.com/MehadiWritesCode">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -504,55 +245,21 @@ $ ./connect --ports
 
 ---
 
-```text id="motd01"
-$ cat /etc/motd
-```
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
+║                  SYSTEM STILL RUNNING...                            ║
 ║                                                                      ║
-║       BUILD SOMETHING.                                              ║
-║       BREAK SOMETHING.                                              ║
-║       UNDERSTAND WHY.                                               ║
-║       FIX IT.                                                        ║
-║       BUILD IT BETTER.                                              ║
+║                  BUILD  •  LEARN  •  REPEAT                         ║
 ║                                                                      ║
-║       ─────────────────────────────────────────────────────────      ║
-║                                                                      ║
-║       "Every problem has a solution;                                ║
-║        it just needs the right logic."                              ║
-║                                                                      ║
+║       "Every problem has a solution; it just needs the right logic."║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-```text id="exit01"
-$ systemctl status mehadi.service
-```
-
 ```text
-● mehadi.service - Developer Profile
-     Loaded: loaded
-     Active: active (running)
-     Uptime: continuous
-     Tasks: learning, building, experimenting
-     State: evolving
-```
-
-<div align="center">
-
-```text id="exit02"
-──────────────────────────────────────────────────────────────────────
-
-                         M E H A D I _ O S
-
-                      SYSTEM STILL RUNNING...
-
-                  BUILD  •  LEARN  •  REPEAT
-
-──────────────────────────────────────────────────────────────────────
-
 mehadi@github:~$ logout
 
 [ CONNECTION CLOSED ]
@@ -564,7 +271,7 @@ mehadi@github:~$ logout
 
 <!--
 MEHADI_OS
-Personal Developer Terminal
+Developer Control Center
 Built with curiosity.
 Powered by logic.
 Always under development.
