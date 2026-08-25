@@ -1,91 +1,571 @@
-# 🚀 Md Mehadi Hasan
-
-```
-███╗   ███╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗
-████╗ ████║██╔════╝██║  ██║██╔══██╗██╔══██╗██║
-██╔████╔██║█████╗  ███████║███████║██║  ██║██║
-██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██║  ██║██║
-██║ ╚═╝ ██║███████╗██║  ██║██║  ██║██████╔╝██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
-```
-
-🎓 CSE Student at Green University of Bangladesh.<br>
-🔭 Currently crafting Full-stack Web Applications with Node.js & Express.<br>
-🌱 Deep diving into Scalable Backend Systems and Database Optimization.<br>
-💬 Ask me about Next.js, React, TypeScript, Python, or Node.js.<br>
-🎯 Goal: Building impactful software and evolving into a Senior Full-stack Developer.<br>
-⚡ Fact: I believe every problem has a solution; it just needs the right logic!
-
----
-
-## 👋 Say Hello!
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehedi.hasana.757700) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iddebona70) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehadi-hasan-4476b1392) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehadi_Hasan68) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehadi.hasan.engr@gmail.com)
-
----
-
-## 🌐 Languages I Speak
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## 🏗️ Frontend Architecture
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
----
-
-## ⚙️ Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-## 🛠️ Tools & Deployment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 🚀 Current Sprint:
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Compiler-FF6B6B?style=for-the-badge&logo=vim&logoColor=white" alt="Compiler Design" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/System_Design-4ECDC4?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="System Design" /></a>
-</p>
-
-> 🔥 **Current Focus:** Building compilers, exploring ML algorithms, and mastering system design patterns.
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+
+```text id="boot01"
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███╗   ███╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗                   ║
+║   ████╗ ████║██╔════╝██║  ██║██╔══██╗██╔══██╗██║                   ║
+║   ██╔████╔██║█████╗  ███████║███████║██║  ██║██║                   ║
+║   ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██║  ██║██║                   ║
+║   ██║ ╚═╝ ██║███████╗██║  ██║██║  ██║██████╔╝██║                   ║
+║   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝                   ║
+║                                                                      ║
+║                       M E H A D I _ O S                              ║
+║                                                                      ║
+║              FULL-STACK DEVELOPER • SYSTEM BUILDER                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+```text id="boot02"
+[ BOOT SEQUENCE ]
+
+> loading developer.profile............. OK
+> loading skill.modules................. OK
+> initializing learning.engine.......... OK
+> connecting github..................... OK
+> checking system status................ OK
+
+SYSTEM READY.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+initializing+MEHADI_OS...;%24+loading+developer.profile...;%24+mounting+skill.modules...;%24+starting+learning.service...;%24+all+systems+operational.;%24+welcome%2C+visitor." />
+
 </div>
 
-<!-- Proudly updated 🚀 -->
+---
+
+```text id="about01"
+┌─[ mehadi@github ]─[ ~ ]─────────────────────────────────────────────┐
+│                                                                     │
+│  $ uname -a                                                         │
+│                                                                     │
+│  MEHADI_OS 2.6.0                                                    │
+│  Full-Stack / Backend / System Design                               │
+│                                                                     │
+│  $ id                                                               │
+│                                                                     │
+│  uid=mehadi developer cse_student system_builder                    │
+│                                                                     │
+│  $ uptime                                                           │
+│                                                                     │
+│  Always learning. Always building.                                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+```text id="about02"
+$ cat ~/profile/about.txt
+
+NAME        : Md Mehadi Hasan
+ROLE        : Full-Stack Developer
+EDUCATION   : CSE @ Green University of Bangladesh
+LOCATION    : Bangladesh
+
+MISSION
+───────
+Build useful software.
+Understand systems deeply.
+Write maintainable code.
+Keep improving.
+
+PHILOSOPHY
+──────────
+Every problem has a solution.
+It just needs the right logic.
+```
+
+---
+
+```text id="skills01"
+$ pwd
+
+/home/mehadi/skills
+```
+
+```text id="skills02"
+$ tree -L 2
+```
+
+```text id="skills03"
+skills/
+│
+├── languages/
+│   ├── C
+│   ├── C++
+│   ├── Java
+│   ├── JavaScript
+│   ├── TypeScript
+│   ├── Python
+│   └── PHP
+│
+├── frontend/
+│   ├── React
+│   ├── Next.js
+│   ├── Tailwind CSS
+│   ├── Vite
+│   ├── Context API
+│   └── Chart.js
+│
+├── backend/
+│   ├── Node.js
+│   ├── Express.js
+│   ├── REST APIs
+│   ├── JWT
+│   └── Python
+│
+├── databases/
+│   ├── PostgreSQL
+│   ├── MongoDB
+│   ├── MySQL
+│   └── Supabase
+│
+└── infrastructure/
+    ├── Git
+    ├── GitHub
+    ├── GitLab
+    ├── Vercel
+    ├── Netlify
+    └── Render
+```
+
+---
+
+```text id="skills04"
+$ ./skills --scan
+```
+
+```text id="skills05"
+SCANNING DEVELOPER STACK...
+
+[████████████████████████████████] 100%
+
+╭────────────────────┬────────────────────────────┬──────────────╮
+│ MODULE             │ CORE TECHNOLOGIES          │ STATUS       │
+├────────────────────┼────────────────────────────┼──────────────┤
+│ LANGUAGES          │ C / C++ / Java              │ ACTIVE       │
+│                    │ JavaScript / TypeScript     │              │
+│                    │ Python / PHP                │              │
+│                    │                            │              │
+│ FRONTEND           │ React / Next.js             │ ACTIVE       │
+│                    │ Tailwind / Vite             │              │
+│                    │ Context API / Chart.js      │              │
+│                    │                            │              │
+│ BACKEND            │ Node.js / Express           │ ACTIVE       │
+│                    │ REST / JWT                  │              │
+│                    │ Python                      │              │
+│                    │                            │              │
+│ DATABASE           │ PostgreSQL / MongoDB        │ ACTIVE       │
+│                    │ MySQL / Supabase            │              │
+│                    │                            │              │
+│ INFRASTRUCTURE     │ Git / GitHub / GitLab       │ ACTIVE       │
+│                    │ Vercel / Netlify / Render   │              │
+╰────────────────────┴────────────────────────────┴──────────────╯
+
+SCAN COMPLETE.
+```
+
+---
+
+```text id="stack01"
+$ ./stack --load
+```
+
+```text id="stack02"
+LANGUAGES
+─────────
+C              ███████████████░░░░░
+C++            ███████████████░░░░░
+Java           ████████████░░░░░░░░
+JavaScript     ███████████████████░
+TypeScript     ███████████████████░
+Python         ████████████████░░░░
+PHP            ██████████░░░░░░░░░░
+
+
+FRONTEND
+────────
+React          ███████████████████░
+Next.js        ███████████████████░
+Tailwind CSS   ██████████████████░░
+Vite           ███████████████░░░░░
+Context API    ██████████████░░░░░░
+Chart.js       ████████████░░░░░░░░
+
+
+BACKEND
+───────
+Node.js        ██████████████████░░
+Express.js     █████████████████░░░
+REST APIs      ████████████████░░░░
+JWT            ███████████████░░░░░
+Python         ████████████████░░░░
+
+
+DATABASE
+────────
+PostgreSQL     ███████████████░░░░░
+MongoDB        ███████████████░░░░░
+MySQL          ██████████████░░░░░░
+Supabase       ████████████████░░░░
+```
+
+---
+
+```text id="infra01"
+$ ./environment --inspect
+```
+
+```text id="infra02"
+┌─────────────────────────────────────────────────────────────────────┐
+│                        DEVELOPMENT ENVIRONMENT                       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  VERSION CONTROL                                                    │
+│  ├── Git                                                            │
+│  ├── GitHub                                                         │
+│  └── GitLab                                                         │
+│                                                                     │
+│  DEPLOYMENT                                                         │
+│  ├── Vercel                                                         │
+│  ├── Netlify                                                        │
+│  └── Render                                                         │
+│                                                                     │
+│  DATABASE / CLOUD                                                   │
+│  └── Supabase                                                        │
+│                                                                     │
+│  DEVELOPMENT                                                        │
+│  └── VS Code                                                         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```text id="learning01"
+$ systemctl --type=learning
+```
+
+```text id="learning02"
+● backend-architecture.service
+   Loaded: enabled
+   Status: active
+
+● database-optimization.service
+   Loaded: enabled
+   Status: active
+
+● system-design.service
+   Loaded: enabled
+   Status: active
+
+● compiler-design.service
+   Loaded: enabled
+   Status: active
+
+● machine-learning.service
+   Loaded: enabled
+   Status: active
+
+● algorithms.service
+   Loaded: enabled
+   Status: active
+```
+
+```text id="learning03"
+$ top -o learning
+```
+
+```text
+PID    PROCESS                         LOAD        STATUS
+────────────────────────────────────────────────────────────
+101    Backend Architecture            ██████████  RUNNING
+102    System Design                  █████████   RUNNING
+103    Database Optimization           ████████    RUNNING
+104    Compiler Design                 ███████     RUNNING
+105    Machine Learning                ██████      RUNNING
+106    Algorithms / DSA                ██████      RUNNING
+
+LEARNING ENGINE
+██████████████████████████████████████░░░░░░
+                                      ACTIVE
+```
+
+---
+
+```text id="focus01"
+$ cat ~/learning/current-focus.log
+```
+
+```text
+[ACTIVE]
+
+01 → Scalable Backend Systems
+02 → Database Optimization
+03 → System Design Patterns
+04 → Compiler Design
+05 → Machine Learning
+06 → Algorithms & Data Structures
+
+[EXPLORING]
+
+→ Distributed Systems
+→ Advanced Backend Architecture
+→ Cloud Infrastructure
+
+[OBJECTIVE]
+
+Become a senior-level full-stack engineer
+who understands both the interface
+and the system behind it.
+```
+
+---
+
+```text id="arch01"
+$ ./architecture --visualize
+```
+
+```text
+                         ┌───────────────┐
+                         │    CLIENT     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                      ┌─────────────────────┐
+                      │   FRONTEND LAYER    │
+                      │ React / Next.js     │
+                      └──────────┬──────────┘
+                                 │
+                                 ▼
+                      ┌─────────────────────┐
+                      │      API LAYER      │
+                      │ REST / Controllers  │
+                      └──────────┬──────────┘
+                                 │
+                       ┌─────────┴─────────┐
+                       ▼                   ▼
+              ┌────────────────┐  ┌────────────────┐
+              │ BUSINESS LOGIC │  │ AUTHENTICATION │
+              └───────┬────────┘  └────────────────┘
+                      │
+                      ▼
+              ┌────────────────────┐
+              │     DATA LAYER     │
+              └─────────┬──────────┘
+                        │
+                 ┌──────┴──────┐
+                 ▼             ▼
+            PostgreSQL      MongoDB
+```
+
+```text id="arch02"
+architecture.service → READY
+```
+
+---
+
+```text id="status01"
+$ ./security --scan
+```
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                    DEVELOPMENT SCAN                        │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  CODE QUALITY             ████████████████░░░░              │
+│  PROBLEM SOLVING          █████████████████░░              │
+│  BACKEND KNOWLEDGE        ███████████████░░░░              │
+│  DATABASE KNOWLEDGE       ██████████████░░░░░              │
+│  SYSTEM DESIGN            ███████████░░░░░░░               │
+│  SECURITY AWARENESS       █████████████░░░░░               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+
+RESULT
+──────
+Developer status: EVOLVING
+Learning status:  ACTIVE
+Final version:    NOT FOUND
+```
+
+---
+
+```text id="neo01"
+$ neofetch --developer
+```
+
+```text
+              ███████╗ ██████╗
+              ██╔════╝██╔═══██╗
+              █████╗  ██║   ██║
+              ██╔══╝  ██║   ██║
+              ██║     ╚██████╔╝
+              ╚═╝      ╚═════╝
+
+           M D   M E H A D I   H A S A N
+
+OS             : MEHADI_OS
+KERNEL         : FULL-STACK ENGINEERING
+SHELL          : TypeScript / JavaScript
+RUNTIME        : Node.js / Python
+FRONTEND       : React / Next.js
+BACKEND        : Express / REST
+DATABASE       : PostgreSQL / MongoDB / MySQL
+AUTH           : JWT / Supabase
+DEPLOYMENT     : Vercel / Netlify / Render
+EDITOR         : VS Code
+EDUCATION      : CSE
+LOCATION       : Bangladesh
+STATUS         : ONLINE
+CURRENT MODE   : BUILD
+```
+
+---
+
+```text id="stats01"
+$ github --telemetry
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF9C&text_color=AAAAAA&icon_color=00FF9C" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MehadiWritesCode&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=AAAAAA&dates=666666" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+```text id="stats02"
+github.service
+───────────────
+API ................. CONNECTED
+REPOSITORIES ........ INDEXED
+CONTRIBUTIONS ....... TRACKING
+STATUS .............. ONLINE
+```
+
+---
+
+```text id="connect01"
+$ ./connect --ports
+```
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                     CONNECTION PORTS                         │
+│                                                              │
+│   :22    GitHub      → source code                          │
+│   :443   LinkedIn    → professional network                 │
+│   :80    Facebook    → social                               │
+│   :80    Instagram   → social                               │
+│   :80    X           → updates                              │
+│   :25    Email       → direct connection                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+<div align="center">
+
+<a href="https://github.com/MehadiWritesCode">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mehadi-hasan-4476b1392">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://facebook.com/mehedi.hasana.757700">
+<img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+
+<a href="https://instagram.com/iddebona70">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://x.com/Mehadi_Hasan68">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:mehadi.hasan.engr@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+---
+
+```text id="motd01"
+$ cat /etc/motd
+```
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                                                                      ║
+║       BUILD SOMETHING.                                              ║
+║       BREAK SOMETHING.                                              ║
+║       UNDERSTAND WHY.                                               ║
+║       FIX IT.                                                        ║
+║       BUILD IT BETTER.                                              ║
+║                                                                      ║
+║       ─────────────────────────────────────────────────────────      ║
+║                                                                      ║
+║       "Every problem has a solution;                                ║
+║        it just needs the right logic."                              ║
+║                                                                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+```text id="exit01"
+$ systemctl status mehadi.service
+```
+
+```text
+● mehadi.service - Developer Profile
+     Loaded: loaded
+     Active: active (running)
+     Uptime: continuous
+     Tasks: learning, building, experimenting
+     State: evolving
+```
+
+<div align="center">
+
+```text id="exit02"
+──────────────────────────────────────────────────────────────────────
+
+                         M E H A D I _ O S
+
+                      SYSTEM STILL RUNNING...
+
+                  BUILD  •  LEARN  •  REPEAT
+
+──────────────────────────────────────────────────────────────────────
+
+mehadi@github:~$ logout
+
+[ CONNECTION CLOSED ]
+
+< EOF >
+```
+
+</div>
+
+<!--
+MEHADI_OS
+Personal Developer Terminal
+Built with curiosity.
+Powered by logic.
+Always under development.
+-->
