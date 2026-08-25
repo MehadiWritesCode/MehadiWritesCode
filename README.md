@@ -177,13 +177,10 @@ and the system behind it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehadiWritesCode&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF9C&text_color=AAAAAA&icon_color=00FF9C" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MehadiWritesCode&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=AAAAAA&dates=666666" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MehadiWritesCode&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img
+  src="https://streak-stats.demolab.com/?user=MehadiWritesCode&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  height="165"
+/>
 
 </div>
 
